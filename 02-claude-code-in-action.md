@@ -1,0 +1,33 @@
+# Claude code in action
+
+- Claude Code Tools
+  - Agent
+    - Launches a sub agent to handle tasls
+  - Bash
+    - Run shell commands
+  - Edit
+    - Edits a file
+  - Glob
+    - Find files based on a pattern
+  - Grep
+    - Search the contents of a file
+  - LS
+    - List files and directories
+  - MultiEdit
+    - Make several edits at the same time
+  - NotebookEdit
+    - Write a cell to a Jupyter notebook
+  - NotebookRead
+    - Read a cell from a Jupyter notebook
+  - Read
+    - Read a file
+  - TodoRead
+    - Read one of the created to-do's
+  - TodoWrite
+    - Update the list of to-dos
+  - WebFetch
+    - Fetch from a URL
+  - WebSearch
+    - Search the web
+  - Write
+    - Write to a file
